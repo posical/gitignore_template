@@ -1,1 +1,1 @@
-# gitignore_template
+# .gitignore Template
